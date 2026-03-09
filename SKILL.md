@@ -1,5 +1,5 @@
 ---
-name: rent_computer
+name: rent-computer
 description: 当用户电脑性能不足，或者希望租赁高性能电脑时，帮助用户完成电脑租赁申请
 ---
 ## 触发条件
